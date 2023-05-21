@@ -1,16 +1,4 @@
-# u_and_i
+# 커플 디데이 앱
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+학교 수업 시간에 flutterf를 이용해 만든 커플 디데이 앱입니다.
+연애를 시작한 날을 지정하면 디데이 몇 일인지 알려주는 모바일 앱입니다.
